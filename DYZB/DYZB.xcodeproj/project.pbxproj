@@ -54,7 +54,6 @@
 			children = (
 				065EDF77211B16550052B56E /* classes */,
 				065EDEF6211AEE810052B56E /* AppDelegate.swift */,
-				065EDEFA211AEE850052B56E /* Main.storyboard */,
 				065EDEFD211AEEAA0052B56E /* Assets.xcassets */,
 				065EDEFF211AEEAA0052B56E /* LaunchScreen.storyboard */,
 				065EDF02211AEEAA0052B56E /* Info.plist */,
@@ -99,6 +98,7 @@
 		065EDF7B211B16550052B56E /* Main */ = {
 			isa = PBXGroup;
 			children = (
+				065EDEFA211AEE850052B56E /* Main.storyboard */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -336,7 +336,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DU3XD2JR9V;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DYZB/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -356,7 +356,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DU3XD2JR9V;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DYZB/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
